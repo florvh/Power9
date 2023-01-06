@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.container p {
+    text-align: center;
+}
+.card {
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+}

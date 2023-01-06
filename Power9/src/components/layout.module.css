@@ -1,3 +1,43 @@
-li{
-    float: right;
+header {
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    width: 100%;
+    justify-content: space-between;
+    border-bottom: double aqua;
+}
+img {
+    width: 33%;
+}
+html {
+    height: 100vh;
+    background-color: black;
+    color:aliceblue;
+    font-family:monospace;
+}
+.nav {
+    width: 33%;
+}
+title {
+    width: 33%;
+}
+h1:nth-child(1){
+    text-align: center;
+    font-size: 50px;
+}
+.navLinkText {
+    margin: 5px;
+    text-decoration: none;
+    color: #E24045;
+}
+ol {
+    background-color: #F5C574;
+    border-radius: 25px;
+    padding: 10px;
+    text-align: center;
+    width: 30%;
+    margin: 5px;
+}
+ul {
+    text-align: -webkit-center;
 }
