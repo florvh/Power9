@@ -3,7 +3,7 @@ module.exports = {
     title: `The power 9`,
     description: `.`,
     author: `@gatsbyjs`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    siteUrl: `https://powernine.netlify.app/`,
   },
   plugins: [
     `gatsby-plugin-image`,
