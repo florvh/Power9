@@ -40,6 +40,11 @@ const Layout = ({ pageTitle, children }) => {
                   Cards
                 </Link>
               </ol>
+              <ol>
+                <Link className={navLinkText} to="/contact">
+                  Contact
+                </Link>
+              </ol>
             </ul>
           </nav>
         </header>

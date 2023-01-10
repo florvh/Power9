@@ -1,0 +1,26 @@
+.form {
+    text-align: center;
+    width: 80%;
+    margin-left: 10%;
+    height: 55vh;
+  }
+  .form label {
+    display:block;
+    margin-top: 15px;
+  }
+  .form input, .form textarea {
+    width: 100%;
+    padding: 5px;
+  }
+  .form textarea {
+   min-height: 300px;
+  }
+  .form button {
+    background-color: #F5C574;
+    border-radius: 25px;
+    padding: 10px;
+    text-align: center;
+    width: 100px;
+    margin: 5px;
+    color: red;
+  }

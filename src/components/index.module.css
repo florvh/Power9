@@ -12,3 +12,15 @@
   font-size: x-large;
   margin-right: 20PX;
 }
+.featured {
+  display: flex;
+  justify-content: space-evenly;
+}
+.card {
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 10px;
+}
+.featured p {
+  text-align: center;
+}
